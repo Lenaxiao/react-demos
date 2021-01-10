@@ -10,6 +10,4 @@ to be continue...
 
 ---
 
-<p>
-  To see the Demo, change `App.js`.
-</p>
+To see the Demo, change `App.js`.

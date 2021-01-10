@@ -5,4 +5,11 @@
   <li>SeachBar with auto completion (an extension using Trie)</li>
   <li>Swiper</li>
 </ol>
+
 to be continue...
+
+---
+
+<p>
+  To see the Demo, change `App.js`.
+</p>
